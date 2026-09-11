@@ -1,0 +1,5 @@
+interface:
+  display_name: "童话异想拼贴"
+  short_description: "保留照片原色，用三层剪纸背景和唯一巨物生成童话拼贴"
+  default_prompt: "Use $storybook-surreal-collage to transform this photo into a full-color storybook surreal collage while preserving the subject and foreground in their original natural colors."
+
