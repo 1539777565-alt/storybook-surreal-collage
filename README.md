@@ -6,6 +6,34 @@
 
 > 真实留色、平涂梦境、一物不对劲、元素源于图、色从图中来。
 
+## 效果对照
+
+### 1. 海上日落：救生圈变成海平线上的巨型日轮
+
+| 原图 | 原色生成结果 |
+| --- | --- |
+| ![海上日落原图](examples/01-boat-original.jpg) | ![海上日落童话异想拼贴结果](examples/01-boat-result.png) |
+
+### 2. 雪山自拍：山峰戴上同款针织帽
+
+| 原图 | 原色生成结果 |
+| --- | --- |
+| ![雪山自拍原图](examples/02-mountain-original.jpg) | ![雪山自拍童话异想拼贴结果](examples/02-mountain-result.png) |
+
+### 3. 冬日海岸：针织帽化成漂浮巨物
+
+| 原图 | 原色生成结果 |
+| --- | --- |
+| ![冬日海岸原图](examples/03-knit-coast-original.jpg) | ![冬日海岸童话异想拼贴结果](examples/03-knit-coast-result.png) |
+
+### 4. 海湾贝壳：掌心贝壳升入童话天空
+
+| 原图 | 原色生成结果 |
+| --- | --- |
+| ![海湾贝壳原图](examples/04-shell-bay-original.jpg) | ![海湾贝壳童话异想拼贴结果](examples/04-shell-bay-result.png) |
+
+仓库中的展示图均为移除 EXIF、GPS、拍摄时间和设备信息后的副本。
+
 ## 适合什么
 
 - 把旅行照、人像、城市或风景照做成明亮的童话异想拼贴
