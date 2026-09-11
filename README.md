@@ -17,6 +17,20 @@
 
 将整个 `storybook-surreal-collage` 文件夹复制到所用 agent 的 skills 目录。
 
+### 一句话安装并使用
+
+把下面这句话和需要处理的照片一起发给支持安装 GitHub skill 的 agent：
+
+```text
+请安装 https://github.com/1539777565-alt/storybook-surreal-collage 里的 storybook-surreal-collage skill，然后使用它处理这张图片。
+```
+
+安装完成后，也可以直接说：
+
+```text
+使用 $storybook-surreal-collage 处理这张图片。
+```
+
 Codex 示例：
 
 ```text
@@ -69,4 +83,3 @@ Codex 示例：
 - 本版本修改由 [Xiaohao.ooo](https://github.com/1539777565-alt) 完成，并继续以 MIT License 发布。
 
 使用照片时，请自行确认对照片、人物肖像及第三方素材拥有必要授权。
-
